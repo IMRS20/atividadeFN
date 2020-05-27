@@ -4,4 +4,6 @@ Nesta atividade é proposto a criação de um gerenciador acadêmico, onde se po
 
 Nomes dos componentes: Igor Emanuel Negri, Matheus Chaves Marques, Rubens Alves de Jesus Gonçalves, Samuel Bruno Reis dos Santos.
 
-Funções utilizadas: cadastrarAluno; lancarNotas; alterarNotas; mostrarRelatorio;
+Funções/Recursos utilizadas: cadastrarAluno; lancarNotas; alterarNotas; mostrarRelatorio;
+
+As funcionalidades são cadastrar estudantes, lançar notas, alterar notas e mostrar relatório dos alunos cadastrados, desde notas até conceito.
